@@ -3,8 +3,8 @@ Motive :-
 To develop an application that will recommend top 8 similar movie based on the movie user select.
 
 Process :- 
-This recommender system is based on Content, so Content based recommender system.
-Dataset link = https://www.kaggle.com/tmdb/tmdb-movie-metadata?select=tmdb_5000_movies.csv
+This recommender system is based on Content, so Content based recommender system. <br>
+Dataset link = https://www.kaggle.com/tmdb/tmdb-movie-metadata?select=tmdb_5000_movies.csv <p>
 In this, 
 1. Preprocessing the data by removing null values and combining the datasets.
 2. Make the data in the form of three features, Movie_id, Movie_name, Movie_tags.
