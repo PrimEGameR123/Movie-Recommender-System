@@ -20,5 +20,5 @@ Deployment
 3. The system is deployed using Heroku.
 
 Conclusion :-
-Application made using streamlit that predict the 8 similar content movies.
+Application made using streamlit that predict the 8 similar content movies.<br>
 App link - http://movies-suggest-system.herokuapp.com/
