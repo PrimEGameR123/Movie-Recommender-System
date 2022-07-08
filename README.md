@@ -21,4 +21,4 @@ Deployment
 
 Conclusion :-
 Application made using streamlit that predict the 8 similar content movies.<br>
-App link - http://movies-suggest-system.herokuapp.com/
+App link = http://movies-suggest-system.herokuapp.com/
