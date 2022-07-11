@@ -9,7 +9,7 @@ In this, <br>
 1. Preprocessing the data by removing null values and combining the datasets. <br>
 2. Make the data in the form of three features, Movie_id, Movie_name, Movie_tags.<br>
 (Tags contains all the information of a particular movie, e.g., Keywords, Description, Cast and Crew.) <br>
-3. Filtering the Movie_tags by removing stop words & perforimg word stemming. <br>
+3. NLP & Filtering the Movie_tags by removing stop words & perforimg word stemming. <br>
 4. Vectorising the Movie_tags by a method called Bag_of_words and then making a dataframe for every movie with their vectors. <br>
 5. Calculating score of every movie in the data against every movie. <br>
 6. The movies nearest to the score of selected movie will be shown as recommended movies.
